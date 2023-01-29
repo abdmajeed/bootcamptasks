@@ -1,0 +1,12 @@
+h1,h2{
+  
+    display:flex;
+    margin: auto;
+    justify-content: center;
+}
+select{display: flex;
+    margin:auto;
+}
+DIV{
+    display: inline-block;
+    MARGIN: 40PX 90PX;}
