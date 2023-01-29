@@ -1,0 +1,19 @@
+
+body{
+    
+}
+.div1{
+    border:2px black solid;padding:40px ;width:350px;height: fit-content; 
+}
+h1{border:1px gray solid;padding:20px}
+ 
+.div2
+{
+display: flex;
+flex-wrap: wrap;justify-content: space-evenly;
+}
+button{
+font-size: xx-large;min-width: 90px; min-height: 44px;
+margin: 10px;
+
+}
