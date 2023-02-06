@@ -1,0 +1,28 @@
+input{
+    border-radius: 10px;
+    border-color:blueviolet;
+    border-width:5px;
+    width:200px;
+    height:25px;
+}
+button{
+
+    width:100px;
+    height:30px;
+}
+h1{
+    color:rgb(13, 1, 7);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+body{
+    background-color: rgb(245, 7, 7);
+}
+#active{
+    margin:10px;
+    font-style: bold;
+    font-size: 50px;
+    color:rgb(9, 1, 17);
+   size: 10px;
+}
+div{text-align: center;}
