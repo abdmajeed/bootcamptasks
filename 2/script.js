@@ -1,5 +1,6 @@
 var div = document.createElement('div');
 div.innerHTML=`<input type="text" id="txt">
+<label for='search'>ENTER STATE</label></br>
 <button type="button" onclick="search()"> Search</button>
 <div id="active"></div>`;
 
