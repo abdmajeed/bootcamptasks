@@ -1,0 +1,21 @@
+.col,h4,h6,p,img{
+    display: flex;flex-wrap: wrap;
+    margin: 5px;}
+
+.col{border: 2px solid red;}
+img{
+    max-height: 200px;
+    max-width: 200px;}
+    
+    li{list-style-type: none;
+        display: inline-block;
+        border: 2px black solid;
+        border-right: none;
+        padding: 8px 16px;
+        text-decoration: none;
+      }
+      li:last-child
+      {border-right: 2px black solid;}
+      li:hover{
+        cursor: pointer;
+      }
